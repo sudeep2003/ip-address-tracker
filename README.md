@@ -25,8 +25,8 @@ For the Frontend Mentor IP Address Tracker challenge, I created a IP Address Tra
 
 ### Links
 
-- Solution URL: [https://github.com/sudeepdcvsfgn2003/faq-accordion-main.git](https://github.com/sudeep2003/faq-accordion-main.git)
-- Live Site URL: [https://sudeep2003.githudvbfgnb.io/faq-accordion](https://sudeep2003.github.io/faq-accordion)
+- Solution URL: [https://github.com/sudeep2003/ip-address-tracker.git](https://github.com/sudeep2003/ip-address-tracker.git)
+- Live Site URL: [https://sudeep2003.github.io/ip-address-tracker](https://sudeep2003.github.io/ip-address-tracker)
 
 ### Built with
 
